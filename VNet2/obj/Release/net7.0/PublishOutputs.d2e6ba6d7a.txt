@@ -1,0 +1,12 @@
+C:\Users\walte\AppData\Local\Temp\rider-publish1116717535492765617\VNet2.exe
+C:\Users\walte\AppData\Local\Temp\rider-publish1116717535492765617\appsettings.Development.json
+C:\Users\walte\AppData\Local\Temp\rider-publish1116717535492765617\appsettings.json
+C:\Users\walte\AppData\Local\Temp\rider-publish1116717535492765617\VNet2.dll
+C:\Users\walte\AppData\Local\Temp\rider-publish1116717535492765617\VNet2.deps.json
+C:\Users\walte\AppData\Local\Temp\rider-publish1116717535492765617\VNet2.runtimeconfig.json
+C:\Users\walte\AppData\Local\Temp\rider-publish1116717535492765617\VNet2.pdb
+C:\Users\walte\AppData\Local\Temp\rider-publish1116717535492765617\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\walte\AppData\Local\Temp\rider-publish1116717535492765617\Microsoft.OpenApi.dll
+C:\Users\walte\AppData\Local\Temp\rider-publish1116717535492765617\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\walte\AppData\Local\Temp\rider-publish1116717535492765617\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\walte\AppData\Local\Temp\rider-publish1116717535492765617\Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\VNet2.props" />
+</Project>
